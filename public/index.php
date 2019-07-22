@@ -9,6 +9,7 @@
 
 define('LARAVEL_START', microtime(true));
 
+/*Laravel ok*/
 /*
 |--------------------------------------------------------------------------
 | Register The Auto Loader
